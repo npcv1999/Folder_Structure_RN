@@ -1,2 +1,11 @@
 # Folder_Structure_RN
-![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme?raw=true)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/00.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/01.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/02.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/03.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/04.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/05.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/06.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/07.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/08.png)
+![alt text](https://github.com/npcv1999/Folder_Structure_RN/tree/master/readme/09.png)
